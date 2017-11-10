@@ -69,7 +69,7 @@ nav a:hover {
   color: #0056b3;
 }
 
-header.#Prem a:hover {
+#Prem a:hover {
   text-decoration: underline;
 }
 
@@ -102,4 +102,4 @@ div.Questions p{
 .btn:hover{
   background-color: #0069d9;
   border-color: #0069d9;
-}
+  }
