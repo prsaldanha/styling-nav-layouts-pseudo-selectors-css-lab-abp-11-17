@@ -80,12 +80,12 @@ div.Questions {
   padding-right: 20px;
 }
 
-div.Questions h4{
+div.Questions h4 {
   font-size: 30px;
   margin-bottom: 10px;
 }
 
-div.Questions p{
+div.Questions p {
   margin-top: 30px;
 }
 
@@ -99,7 +99,7 @@ div.Questions p{
   font-size: 20px;
 }
 
-.btn:hover{
+.btn:hover {
   background-color: #0069d9;
   border-color: #0069d9;
   }
